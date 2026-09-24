@@ -55,5 +55,5 @@
   <h3>My GitHub Stats:</h3>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chrisbourgeonnier&theme=radical)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=chrisbourgeonnier&layout=compact&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chrisbourgeonnier&hide_current_streak=true&theme=radical)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=chrisbourgeonnier&layout=compact&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
